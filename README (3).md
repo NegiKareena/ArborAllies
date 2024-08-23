@@ -50,7 +50,8 @@ To deploy this project run
 
 ## Demo
 
-Insert gif or link to demo
+
+https://github.com/user-attachments/assets/e935aaac-edbe-45ef-9011-44ddc23e9f5e
 
 
 ## Authors
@@ -58,6 +59,7 @@ Insert gif or link to demo
 - [@NegiKareena](https://github.com/NegiKareena)
 - [@anushka9555 ](https://github.com/anushka9555)
 - [@nivedita156](https://github.com/nivedita156)
+- [@PoornimaYadav05](https://github.com/PoornimaYadav05)
 
 
 
